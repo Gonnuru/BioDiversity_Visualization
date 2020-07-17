@@ -1,2 +1,2 @@
 # BioDiversity_Visualization
-Data Analysis for National Park Service. Analyzed data on Endangered species from several different parks. 
+Data Analysis for National Park Service. Analyzed data on Endangered species from several different parks. Data visualization
