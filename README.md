@@ -5,5 +5,5 @@ Data Analysis for National Park Service. Analyzed data on Endangered species fro
 
 
 ## Introduction
-This is a biodiversity analysis done for the National Parks Service. Where analysis on data about species at various national parks is done
+This is a biodiversity analysis done for the National Parks Service. Analysis on data about species at various national parks is done
 This particular project is primarily focussed on data analysis and have also answered a few questions focussed on biodiversity reservation
